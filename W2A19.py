@@ -1,0 +1,1 @@
+print("Monday\nTuesday\nwednesday\nthursday\nfriday\nsaturday\nsunday")

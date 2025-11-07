@@ -1,0 +1,1 @@
+print("january\nfebruary\nmarch\napil\nmay\njune\njuly\naugust\nseptember")
